@@ -38,6 +38,7 @@ public class VertebradoFrame extends javax.swing.JFrame {
     private void initComponents() {
         //inicializando componentes
 
+
         jLabel1 = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
         jList1 = new javax.swing.JList<>();
@@ -164,4 +165,6 @@ public class VertebradoFrame extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTextField jTextField1;
     // End of variables declaration//GEN-END:variables
+
+    //fin de la app
 }
