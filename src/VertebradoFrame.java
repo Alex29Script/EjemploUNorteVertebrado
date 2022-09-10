@@ -68,7 +68,7 @@ public class VertebradoFrame extends javax.swing.JFrame {
                 jTextField1ActionPerformed(evt);
             }
         });
-
+        //Otro cambio para prueba 2
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
